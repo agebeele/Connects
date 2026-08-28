@@ -1,0 +1,6 @@
+{
+  "name": "Connects",
+  "description": "Red social para amigos con salas de fotos en tiempo real, álbumes compartidos, comentarios y reacciones instantáneas, copia de seguridad en la nube, sincronización multidispositivo y creador de películas con IA para momentos destacados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
